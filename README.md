@@ -16,5 +16,5 @@ Proyecto académico para administrar los asientos de una sala de cine mediante u
 - Integrante 1: Fernando Hernandez Garcia
 
 ## Tecnologías utilizadas
-- Por definir.
+- Una Pc
 
