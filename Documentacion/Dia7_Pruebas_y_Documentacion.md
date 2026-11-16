@@ -31,3 +31,18 @@ En esta sección se agregarán capturas de pantalla que demuestren el funcionami
 El sistema cumple con las funciones establecidas para administrar los 40 asientos de una sala de cine. Permite reservar, liberar y consultar asientos, además de mostrar estadísticas sobre la ocupación.
 
 Las pruebas permitieron comprobar el funcionamiento de las operaciones y la validación de los datos ingresados.
+
+#### 4.1 Visualización de los asientos
+![Visualización de los asientos](../Evidencias/01_Mostrar_Asientos.png)
+
+#### 4.2 Reservación de un asiento
+![Reservación](../Evidencias/02_Reservar_Asiento.png)
+
+#### 4.3 Liberación de un asiento
+![Liberación](../Evidencias/03_Liberar_Asiento.png)
+
+#### 4.4 Consulta de disponibilidad
+![Consulta](../Evidencias/04_Consultar_Disponibilidad.png)
+
+#### 4.5 Estadísticas
+![Estadísticas](../Evidencias/05_Estadisticas.png)
